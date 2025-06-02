@@ -14,11 +14,10 @@ dependencies:
     sdk: flutter
   hl_image_picker_platform_interface: ^1.2.4
   hl_image_picker_ios:
-  git:
-    url: https://github.com/himanshusingh1/hl_image_picker.git
-    ref: main
-    path: hl_image_picker_ios
-
+    git:
+      url: https://github.com/himanshusingh1/hl_image_picker.git
+      ref: main
+      path: hl_image_picker_ios
   hl_image_picker_android: ^1.2.11
 
 dev_dependencies:
