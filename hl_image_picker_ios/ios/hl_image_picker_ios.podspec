@@ -15,7 +15,7 @@ Choose images/videos from the library, crop images, and capture new photos/video
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'TLPhotoPicker', :git => 'https://github.com/himanshusingh1/TLPhotoPicker.git', :branch => 'main'
+  s.dependency 'TLPhotoPicker', :git => 'https://github.com/himanshusingh1/TLPhotoPicker.git', :branch => 'master'
   s.dependency 'CropViewController'
   s.platform = :ios, '11.0'
 
